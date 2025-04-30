@@ -1,0 +1,381 @@
+match_id,weather_id,temperature,conditions,humidity,precipitation,wind_speed_in_km_h
+1,1,24.18,Sunny,74.49,Rain,6.7
+2,2,27.09,Windy,74.44,Hail,2.61
+3,3,17.66,Sunny,35.62,Rain,15.16
+4,4,5.8,Cloudy,72.96,Hail,12.59
+5,5,18.48,Rain,78.57,No Precipitation,22.76
+6,6,9.79,Snow,50.42,Rain,6.46
+7,7,27.9,Sunny,35.56,No Precipitation,10.77
+8,8,15.32,Rain,78.43,Drizzle,16.09
+9,9,34.19,Snow,34.73,Snow,24.88
+10,10,23.56,Rain,64.64,No Precipitation,1.37
+11,11,11.84,Rain,89.11,Rain,25.99
+12,12,16.4,Snow,68.14,Snow,4.88
+13,13,15.66,Windy,46.02,No Precipitation,18.27
+14,14,10.13,Windy,44.69,Drizzle,11.38
+15,15,34.69,Windy,71.29,Rain,20.54
+16,16,30.29,Sunny,43.74,No Precipitation,24.15
+17,17,17.03,Sunny,42.66,Hail,26.29
+18,18,14.44,Windy,59.95,Drizzle,4.29
+19,19,9.19,Windy,63.68,Snow,22.41
+20,20,17.85,Fog,53.96,Rain,29.92
+21,21,9.15,Snow,35.45,No Precipitation,25.83
+22,22,9.59,Cloudy,77.52,Drizzle,17.89
+23,23,16.54,Fog,89.77,Hail,7.54
+24,24,21.6,Sunny,70.82,No Precipitation,20.45
+25,25,21.11,Rain,76.12,Snow,3.35
+26,26,18.04,Snow,30.19,Snow,29.16
+27,27,27.86,Fog,84.76,Snow,25.25
+28,28,20.23,Cloudy,39.17,Rain,16.18
+29,29,28.36,Fog,85.11,Hail,9.72
+30,30,5.58,Rain,82.72,Snow,7.18
+31,31,12.23,Fog,86.82,No Precipitation,21.96
+32,32,29.48,Fog,75.95,Rain,19.79
+33,33,33.41,Cloudy,45.9,Hail,12.69
+34,34,11.35,Fog,75.32,Rain,21.39
+35,35,16.97,Windy,68.99,Drizzle,26.99
+36,36,18.54,Cloudy,43.48,Snow,0.63
+37,37,21.62,Fog,43.21,No Precipitation,21.24
+38,38,6.77,Sunny,84.33,Snow,2.13
+39,39,12.14,Windy,59.12,Hail,3.97
+40,40,33.07,Fog,64.57,Rain,23.54
+41,41,29.22,Cloudy,35.66,Drizzle,10.63
+42,42,17.33,Windy,33.25,No Precipitation,1.82
+43,43,26.85,Sunny,44.92,Rain,16.09
+44,44,9.21,Cloudy,46.71,Rain,26.23
+45,45,7.26,Fog,35.87,Hail,25.08
+46,46,34.07,Cloudy,39.98,Drizzle,14.44
+47,47,30.94,Sunny,39.88,No Precipitation,29.56
+48,48,12.96,Snow,47.11,Hail,19.86
+49,49,19.6,Cloudy,47.8,No Precipitation,17.38
+50,50,21.27,Windy,48.82,No Precipitation,17.53
+51,51,20.09,Fog,39.45,Hail,2.4
+52,52,10.57,Fog,34.08,Rain,12.11
+53,53,33.25,Fog,44.77,Hail,1.19
+54,54,7.46,Windy,65.02,Hail,9.49
+55,55,12.82,Windy,72.97,Rain,7.97
+56,56,8.93,Windy,48.0,Snow,27.87
+57,57,33.07,Sunny,57.5,Hail,29.88
+58,58,7.2,Cloudy,60.35,Rain,28.0
+59,59,31.43,Cloudy,52.17,Rain,13.15
+60,60,21.3,Rain,66.7,Hail,0.23
+61,61,29.51,Rain,85.91,No Precipitation,28.17
+62,62,9.03,Sunny,83.38,Hail,4.66
+63,63,13.45,Cloudy,73.06,Rain,20.62
+64,64,30.59,Fog,59.31,No Precipitation,2.77
+65,65,17.71,Rain,32.65,Snow,23.13
+66,66,24.11,Rain,39.69,Drizzle,16.55
+67,67,17.83,Sunny,36.71,Rain,16.37
+68,68,30.04,Fog,63.15,Drizzle,3.82
+69,69,14.25,Sunny,83.94,Rain,20.46
+70,70,25.01,Rain,76.81,Drizzle,29.22
+71,71,27.48,Cloudy,81.88,Rain,26.44
+72,72,5.74,Windy,85.47,Drizzle,24.07
+73,73,30.92,Cloudy,46.01,No Precipitation,11.48
+74,74,6.16,Snow,43.35,Drizzle,10.49
+75,75,29.62,Cloudy,43.38,Rain,11.95
+76,76,13.36,Sunny,88.01,Snow,10.53
+77,77,20.28,Windy,88.87,Hail,9.93
+78,78,5.83,Rain,40.71,Snow,1.15
+79,79,22.9,Rain,73.71,Snow,13.09
+80,80,34.53,Sunny,53.11,Hail,5.7
+81,81,6.33,Snow,30.1,Hail,20.61
+82,82,33.21,Windy,70.24,Snow,12.94
+83,83,33.47,Rain,67.39,No Precipitation,21.59
+84,84,14.01,Rain,70.01,Snow,12.07
+85,85,13.87,Cloudy,41.51,Drizzle,20.32
+86,86,32.08,Fog,64.15,Drizzle,16.44
+87,87,5.01,Rain,42.61,Hail,18.2
+88,88,14.67,Snow,56.53,Rain,15.34
+89,89,28.81,Windy,40.18,No Precipitation,8.51
+90,90,24.92,Fog,50.11,Rain,20.18
+91,91,11.74,Cloudy,38.84,No Precipitation,7.35
+92,92,19.25,Sunny,57.32,Hail,5.83
+93,93,25.89,Snow,53.98,Rain,19.68
+94,94,5.17,Sunny,76.71,Rain,5.28
+95,95,33.74,Fog,57.87,Hail,7.48
+96,96,30.45,Snow,38.0,Drizzle,20.03
+97,97,34.64,Fog,49.04,Drizzle,18.38
+98,98,26.58,Fog,55.6,Hail,13.38
+99,99,9.77,Snow,57.0,Rain,25.2
+100,100,13.32,Fog,59.08,Rain,8.24
+101,101,7.32,Rain,44.07,Snow,9.59
+102,102,21.2,Cloudy,39.05,Drizzle,20.82
+103,103,26.19,Sunny,54.89,Snow,16.28
+104,104,17.47,Cloudy,79.97,Drizzle,27.15
+105,105,22.52,Windy,31.17,Hail,11.41
+106,106,5.18,Rain,47.92,Drizzle,25.6
+107,107,33.6,Snow,62.29,Hail,24.0
+108,108,31.93,Snow,43.17,Drizzle,14.57
+109,109,16.67,Windy,70.75,Drizzle,21.73
+110,110,30.22,Cloudy,88.84,Hail,0.81
+111,111,16.82,Fog,69.78,No Precipitation,19.28
+112,112,9.07,Snow,40.9,Snow,11.37
+113,113,11.35,Rain,50.25,Drizzle,8.35
+114,114,33.54,Snow,45.14,No Precipitation,14.11
+115,115,27.47,Sunny,89.99,Snow,6.73
+116,116,7.06,Windy,32.42,No Precipitation,28.49
+117,117,10.98,Sunny,67.28,Rain,3.79
+118,118,25.08,Fog,86.87,Drizzle,20.98
+119,119,28.01,Cloudy,66.35,No Precipitation,23.33
+120,120,9.91,Rain,36.49,No Precipitation,27.87
+121,121,22.27,Snow,53.8,Rain,2.28
+122,122,25.72,Windy,44.57,Snow,25.51
+123,123,23.01,Sunny,77.77,Hail,23.48
+124,124,15.42,Snow,69.69,No Precipitation,15.18
+125,125,15.24,Snow,79.34,No Precipitation,13.01
+126,126,15.87,Snow,72.44,Drizzle,5.28
+127,127,20.65,Windy,46.2,Hail,23.24
+128,128,18.95,Windy,65.55,Snow,25.55
+129,129,29.92,Sunny,46.74,Drizzle,7.32
+130,130,18.94,Fog,70.09,Snow,0.86
+131,131,30.53,Cloudy,59.25,Snow,23.93
+132,132,15.21,Fog,72.07,Snow,16.67
+133,133,20.5,Cloudy,35.14,Drizzle,14.66
+134,134,27.74,Windy,58.57,Drizzle,13.45
+135,135,5.52,Rain,43.3,Rain,9.19
+136,136,22.45,Snow,63.21,Snow,12.77
+137,137,27.38,Rain,51.11,Drizzle,8.13
+138,138,12.54,Sunny,73.28,Snow,3.59
+139,139,21.08,Windy,41.11,Rain,22.16
+140,140,13.29,Fog,88.6,Hail,17.9
+141,141,34.42,Cloudy,47.77,Snow,5.38
+142,142,5.42,Fog,37.59,No Precipitation,29.23
+143,143,21.6,Windy,86.65,Drizzle,3.08
+144,144,5.37,Rain,58.16,Drizzle,10.22
+145,145,33.96,Rain,86.46,Drizzle,3.42
+146,146,6.96,Snow,34.44,No Precipitation,4.55
+147,147,29.33,Rain,35.11,Rain,3.55
+148,148,27.93,Fog,65.77,Hail,6.77
+149,149,20.68,Snow,84.51,Snow,25.8
+150,150,34.7,Rain,64.12,No Precipitation,18.29
+151,151,27.2,Cloudy,67.53,Snow,19.81
+152,152,9.71,Cloudy,63.12,Rain,0.08
+153,153,18.52,Fog,58.19,No Precipitation,6.94
+154,154,26.21,Windy,81.58,No Precipitation,20.62
+155,155,32.72,Windy,65.39,Rain,12.75
+156,156,21.34,Windy,38.94,Snow,24.8
+157,157,7.14,Cloudy,77.56,Hail,22.47
+158,158,22.08,Rain,56.35,Drizzle,20.66
+159,159,25.99,Rain,60.03,Drizzle,13.13
+160,160,22.94,Snow,74.07,Hail,7.51
+161,161,7.74,Windy,80.16,Hail,17.61
+162,162,5.62,Windy,79.29,Hail,1.21
+163,163,27.69,Snow,61.14,Drizzle,27.48
+164,164,10.44,Fog,56.15,Drizzle,29.07
+165,165,19.1,Snow,50.0,No Precipitation,25.73
+166,166,14.89,Windy,59.73,Drizzle,24.41
+167,167,21.5,Snow,35.28,Snow,9.7
+168,168,34.11,Snow,81.89,No Precipitation,19.73
+169,169,21.28,Snow,33.25,Hail,10.85
+170,170,27.69,Windy,56.52,No Precipitation,6.11
+171,171,21.48,Rain,56.29,Drizzle,3.64
+172,172,34.19,Fog,77.96,Rain,9.32
+173,173,5.41,Snow,35.59,No Precipitation,13.84
+174,174,8.52,Cloudy,59.9,Snow,15.27
+175,175,13.2,Snow,88.81,Rain,13.7
+176,176,9.34,Cloudy,85.31,Hail,22.39
+177,177,9.1,Sunny,46.57,Drizzle,10.2
+178,178,28.63,Rain,79.23,Snow,21.78
+179,179,30.12,Fog,89.93,Drizzle,25.96
+180,180,18.4,Snow,50.71,Hail,22.89
+181,181,16.32,Rain,82.18,Rain,17.15
+182,182,12.01,Snow,32.62,Drizzle,21.16
+183,183,29.34,Snow,89.3,Rain,14.86
+184,184,6.11,Fog,87.92,Snow,26.09
+185,185,31.23,Snow,35.98,Drizzle,0.46
+186,186,9.32,Windy,88.2,No Precipitation,14.08
+187,187,34.08,Rain,67.4,Drizzle,19.5
+188,188,30.55,Windy,81.56,Drizzle,28.62
+189,189,23.8,Snow,82.34,No Precipitation,18.52
+190,190,12.04,Windy,85.26,Rain,22.4
+191,191,18.02,Sunny,75.62,No Precipitation,13.31
+192,192,25.82,Sunny,32.76,No Precipitation,8.8
+193,193,16.25,Cloudy,44.65,Drizzle,16.98
+194,194,28.78,Cloudy,40.5,Hail,26.13
+195,195,23.59,Cloudy,59.86,Hail,4.29
+196,196,18.83,Rain,57.57,No Precipitation,26.97
+197,197,18.96,Rain,70.66,Rain,2.22
+198,198,33.36,Fog,47.95,Drizzle,20.71
+199,199,18.71,Rain,41.95,Drizzle,25.6
+200,200,8.2,Snow,64.32,Hail,8.88
+201,201,25.98,Sunny,88.68,Drizzle,8.23
+202,202,21.98,Windy,76.7,No Precipitation,27.32
+203,203,27.36,Rain,76.54,Rain,18.21
+204,204,15.57,Windy,41.41,Snow,20.33
+205,205,26.63,Windy,70.85,Rain,18.85
+206,206,32.1,Windy,32.37,Drizzle,1.0
+207,207,15.95,Cloudy,35.41,Snow,9.8
+208,208,17.47,Cloudy,37.93,Hail,26.29
+209,209,15.98,Fog,84.81,Rain,7.71
+210,210,29.74,Snow,88.04,Snow,22.4
+211,211,15.16,Sunny,58.1,No Precipitation,4.22
+212,212,34.0,Windy,73.45,Drizzle,29.02
+213,213,29.14,Rain,35.42,Drizzle,0.42
+214,214,21.1,Snow,52.12,Snow,17.54
+215,215,29.67,Rain,36.5,Rain,14.14
+216,216,23.59,Fog,49.68,Hail,6.64
+217,217,6.9,Snow,84.56,Snow,19.48
+218,218,8.5,Sunny,86.78,Snow,29.88
+219,219,8.48,Cloudy,83.24,Rain,11.66
+220,220,16.13,Windy,71.79,Hail,12.57
+221,221,27.27,Cloudy,83.12,No Precipitation,25.01
+222,222,23.47,Rain,31.96,Snow,6.52
+223,223,18.34,Cloudy,81.33,No Precipitation,29.43
+224,224,16.02,Windy,51.52,Drizzle,8.28
+225,225,34.05,Snow,35.5,Rain,19.25
+226,226,22.91,Sunny,33.03,Snow,7.31
+227,227,8.78,Fog,42.31,Hail,6.21
+228,228,11.48,Cloudy,49.71,Rain,23.66
+229,229,22.88,Rain,81.5,Rain,29.63
+230,230,21.21,Cloudy,36.6,No Precipitation,3.95
+231,231,15.75,Cloudy,65.33,No Precipitation,5.23
+232,232,6.57,Windy,55.26,No Precipitation,22.37
+233,233,19.29,Rain,60.79,No Precipitation,13.56
+234,234,11.65,Fog,32.6,Hail,9.05
+235,235,24.3,Sunny,33.65,Drizzle,25.42
+236,236,17.79,Sunny,59.42,Drizzle,2.2
+237,237,7.42,Fog,38.9,Rain,8.25
+238,238,23.99,Fog,72.73,Drizzle,29.84
+239,239,20.92,Snow,60.33,Drizzle,2.98
+240,240,26.05,Windy,69.05,Hail,21.63
+241,241,11.45,Snow,83.29,Drizzle,10.17
+242,242,18.6,Snow,73.78,Snow,12.8
+243,243,24.95,Rain,87.22,Drizzle,2.01
+244,244,29.95,Sunny,55.91,Snow,24.35
+245,245,21.69,Fog,87.4,Hail,9.89
+246,246,8.67,Rain,82.42,Drizzle,26.04
+247,247,26.63,Rain,66.02,Snow,3.11
+248,248,20.22,Cloudy,69.4,Rain,25.42
+249,249,15.5,Fog,52.05,Snow,17.22
+250,250,29.22,Fog,88.47,Hail,18.41
+251,251,24.28,Sunny,66.54,Snow,0.87
+252,252,13.2,Rain,85.29,Snow,0.18
+253,253,31.1,Fog,69.44,No Precipitation,4.26
+254,254,24.0,Sunny,35.51,Hail,6.45
+255,255,17.59,Rain,39.44,Snow,21.65
+256,256,28.31,Fog,65.77,No Precipitation,4.67
+257,257,27.63,Sunny,70.44,Snow,13.29
+258,258,17.72,Fog,56.52,Snow,6.47
+259,259,20.37,Rain,55.79,Snow,20.35
+260,260,22.79,Fog,70.03,No Precipitation,6.62
+261,261,34.53,Sunny,30.46,Snow,28.36
+262,262,28.02,Rain,47.37,No Precipitation,0.23
+263,263,27.41,Cloudy,37.75,Hail,21.11
+264,264,20.01,Windy,78.37,No Precipitation,11.91
+265,265,27.26,Snow,31.12,No Precipitation,25.86
+266,266,22.27,Fog,54.27,Drizzle,8.69
+267,267,17.15,Rain,40.31,Hail,13.8
+268,268,25.69,Rain,35.29,No Precipitation,7.3
+269,269,22.67,Fog,34.72,Snow,22.37
+270,270,11.65,Cloudy,34.58,No Precipitation,15.92
+271,271,10.82,Rain,51.07,Rain,7.09
+272,272,9.39,Cloudy,40.41,Rain,22.81
+273,273,24.67,Cloudy,87.08,Drizzle,13.92
+274,274,21.91,Fog,56.93,Hail,19.29
+275,275,34.6,Rain,81.85,Snow,4.53
+276,276,7.05,Snow,67.88,Snow,17.74
+277,277,15.56,Sunny,48.62,Drizzle,1.13
+278,278,16.06,Rain,34.6,No Precipitation,18.45
+279,279,20.21,Snow,64.82,No Precipitation,13.49
+280,280,29.29,Windy,41.29,Hail,14.27
+281,281,9.53,Sunny,57.03,Snow,29.47
+282,282,7.53,Windy,40.35,Rain,21.23
+283,283,34.73,Fog,61.36,Rain,10.92
+284,284,32.54,Snow,54.53,Snow,20.37
+285,285,6.57,Windy,68.84,No Precipitation,9.89
+286,286,21.74,Snow,47.05,Hail,26.2
+287,287,15.0,Fog,69.82,Snow,9.31
+288,288,24.68,Windy,53.52,Hail,21.27
+289,289,7.54,Fog,52.6,Snow,24.4
+290,290,25.1,Windy,89.83,Hail,2.8
+291,291,25.11,Fog,51.71,Snow,9.27
+292,292,33.54,Rain,86.86,Drizzle,5.76
+293,293,35.0,Cloudy,34.63,No Precipitation,15.23
+294,294,21.19,Windy,83.02,No Precipitation,19.86
+295,295,31.29,Fog,37.86,Drizzle,4.63
+296,296,10.43,Windy,76.27,Rain,21.64
+297,297,6.31,Rain,70.58,Rain,29.09
+298,298,23.32,Windy,77.03,Rain,16.02
+299,299,14.28,Snow,84.24,Rain,11.04
+300,300,33.41,Snow,57.7,Snow,23.34
+301,301,20.09,Snow,87.98,Rain,24.04
+302,302,9.15,Rain,33.13,Drizzle,26.22
+303,303,21.64,Sunny,72.68,Hail,25.53
+304,304,13.55,Cloudy,46.37,Hail,4.42
+305,305,18.12,Cloudy,79.0,Snow,27.91
+306,306,17.45,Snow,60.12,Rain,11.58
+307,307,7.45,Cloudy,31.69,No Precipitation,25.18
+308,308,24.5,Cloudy,38.26,Snow,27.52
+309,309,19.17,Cloudy,75.53,Drizzle,13.46
+310,310,5.16,Sunny,31.14,Rain,25.05
+311,311,21.46,Windy,66.53,Drizzle,3.34
+312,312,13.64,Rain,37.31,Rain,12.59
+313,313,28.82,Snow,33.77,Drizzle,17.9
+314,314,5.49,Fog,64.5,Rain,8.74
+315,315,5.05,Rain,44.43,Drizzle,5.62
+316,316,25.05,Fog,88.48,No Precipitation,28.6
+317,317,21.32,Fog,63.25,Drizzle,26.2
+318,318,6.31,Snow,88.86,Snow,22.42
+319,319,15.71,Sunny,50.69,No Precipitation,23.15
+320,320,27.06,Rain,38.0,Snow,16.38
+321,321,29.41,Cloudy,79.82,Drizzle,29.42
+322,322,19.36,Cloudy,78.69,No Precipitation,21.48
+323,323,33.31,Sunny,47.61,No Precipitation,23.73
+324,324,31.57,Rain,86.0,Hail,11.95
+325,325,29.46,Snow,45.2,Rain,8.58
+326,326,30.86,Sunny,81.95,Snow,8.2
+327,327,28.98,Snow,83.37,Drizzle,26.84
+328,328,16.6,Cloudy,59.77,Drizzle,11.02
+329,329,28.92,Rain,78.07,Drizzle,2.37
+330,330,23.07,Cloudy,62.73,Snow,3.08
+331,331,14.84,Rain,48.39,Hail,21.53
+332,332,10.0,Snow,51.09,No Precipitation,21.8
+333,333,32.35,Fog,89.89,Snow,19.18
+334,334,28.74,Sunny,34.5,Drizzle,10.9
+335,335,29.03,Windy,39.6,No Precipitation,4.28
+336,336,23.23,Snow,32.09,No Precipitation,7.08
+337,337,24.35,Rain,52.97,Hail,0.97
+338,338,9.6,Snow,86.93,Snow,13.32
+339,339,7.31,Cloudy,61.77,Drizzle,9.43
+340,340,13.36,Sunny,31.55,Rain,14.97
+341,341,16.61,Fog,37.07,Snow,21.12
+342,342,11.44,Fog,47.13,Drizzle,6.01
+343,343,9.07,Sunny,57.12,Drizzle,29.92
+344,344,29.32,Rain,70.07,No Precipitation,16.5
+345,345,13.71,Rain,81.08,Rain,23.81
+346,346,20.26,Sunny,89.11,Rain,7.1
+347,347,19.82,Rain,63.24,Snow,14.02
+348,348,34.49,Cloudy,66.72,No Precipitation,1.97
+349,349,16.94,Windy,73.13,Hail,12.32
+350,350,17.28,Fog,34.43,Snow,19.27
+351,351,18.5,Windy,61.04,Rain,26.34
+352,352,28.41,Windy,65.27,Rain,12.98
+353,353,32.32,Sunny,79.88,Hail,4.59
+354,354,9.94,Rain,86.08,Rain,10.38
+355,355,33.23,Rain,80.76,Snow,5.89
+356,356,33.69,Rain,37.51,Snow,18.43
+357,357,7.8,Windy,40.12,Hail,4.63
+358,358,24.76,Windy,84.12,Snow,25.28
+359,359,21.91,Sunny,34.87,Hail,7.94
+360,360,11.32,Fog,55.0,No Precipitation,14.94
+361,361,23.81,Rain,68.51,Snow,14.49
+362,362,29.14,Windy,54.37,Drizzle,2.19
+363,363,6.8,Snow,54.94,Drizzle,6.12
+364,364,23.2,Rain,81.69,Snow,22.03
+365,365,30.82,Snow,37.85,Snow,15.45
+366,366,8.19,Cloudy,57.99,Snow,13.49
+367,367,9.23,Sunny,47.41,Drizzle,25.92
+368,368,17.54,Cloudy,78.81,Hail,21.63
+369,369,10.7,Cloudy,59.9,Hail,14.0
+370,370,31.37,Snow,31.39,Drizzle,15.16
+371,371,34.0,Cloudy,65.0,No Precipitation,1.52
+372,372,19.85,Windy,70.35,Snow,16.1
+373,373,30.42,Snow,38.04,Snow,21.83
+374,374,27.92,Rain,32.71,No Precipitation,17.11
+375,375,10.84,Fog,47.32,Drizzle,15.13
+376,376,27.93,Rain,79.52,Hail,20.41
+377,377,8.56,Sunny,53.63,Snow,16.73
+378,378,15.97,Cloudy,41.94,Hail,12.04
+379,379,6.21,Sunny,38.22,Snow,24.12
+380,380,20.58,Cloudy,66.38,Hail,4.19
