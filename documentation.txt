@@ -1,0 +1,20 @@
+**Impact of Player Position on Injuries with Logistic Regression**
+
+We used Logistic Regression because it directly models the probability of a binary outcome (injury vs no injury),
+it gives coefficients that show how position, age, and past injuries change the risk of injury and
+it stays reliable on datasets of moderate size as long as each record is independent and the features aren’t too similar.
+We did not use Random Forest or XGBoost because the position–risk link is mostly linear,
+they can overfit and the results are harder to understand.
+
+**Impact of Weather on Injuries with Random Forest**
+
+We used a Random Forest classifier because it automatically detects non-linear patterns and interactions, 
+it handles mixed and categorical inputs, 
+it resists overfitting and it ranks feature importance so we know which weather factors drive injury risk. 
+We did not use logistic regression because it assumes a smooth, linear effect and can’t capture sudden weather thresholds or the way different conditions interact.
+
+**Weather and Schedule Effects on Attendance with Linear Regression**
+
+We used Linear Regression because our attendance count is continuous, 
+each coefficient gives a clear insight, it’s easy to check standard assumptions and it relies on pre-match data. 
+We did not use Random Forest because it makes it hard to see how much each factor contributes to the final prediction.
