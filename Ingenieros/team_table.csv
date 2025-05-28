@@ -1,0 +1,21 @@
+team_id,coach_id,stadium_id,name,league
+1,1,2,Real Madrid,LaLiga
+2,2,3,Atlético de Madrid,LaLiga
+3,3,4,Real Betis,LaLiga
+4,4,5,FC Barcelona,LaLiga
+5,5,6,Athletic Club,LaLiga
+6,6,7,Valencia CF,LaLiga
+7,7,8,Sevilla FC,LaLiga
+8,8,9,RCD Espanyol,LaLiga
+9,9,10,Real Sociedad,LaLiga
+10,10,11,UD Las Palmas,LaLiga
+11,11,12,Real Valladolid,LaLiga
+12,12,13,RCD Mallorca,LaLiga
+13,13,14,Celta de Vigo,LaLiga
+14,14,15,CA Osasuna,LaLiga
+15,15,16,Villarreal CF,LaLiga
+16,16,17,Deportivo Alavés,LaLiga
+17,17,18,Getafe CF,LaLiga
+18,18,19,Rayo Vallecano,LaLiga
+19,19,20,Girona FC,LaLiga
+20,20,1,CD Leganés,LaLiga
