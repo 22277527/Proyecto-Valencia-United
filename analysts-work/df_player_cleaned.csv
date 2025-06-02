@@ -1,0 +1,101 @@
+player_id,name,birthdate,nationality,position,market_value,current_team_id,instagram_followers,engagement_rate,media_mentions,age
+1,Allison Hill,1991-12-29,Burundi,Defender,91400476.29,9,9516702,8.83,2587,34
+2,Megan Mcclain,1987-05-11,Nauru,Defender,65888427.86,9,6638601,8.9,3768,38
+3,Allen Robinson,2001-08-05,Netherlands,Defender,27223136.48,19,4138722,7.58,4425,24
+4,Cristian Santos,2002-12-10,Italy,Midfielder,74954367.35,2,7188926,9.03,3281,23
+5,Kevin Pacheco,1984-08-14,Senegal,Midfielder,22712755.16,14,2321821,5.34,754,41
+6,Melissa Peterson,1989-09-09,Cuba,Goalkeeper,86249188.06,11,2565251,6.46,3468,36
+7,Gabrielle Davis,1987-09-09,Guinea-Bissau,Goalkeeper,39091963.86,1,9998348,9.96,4344,38
+8,Lindsey Roman,2000-01-12,Mauritania,Midfielder,97136759.38,15,193619,6.96,948,25
+9,Thomas Miller,1994-05-17,Switzerland,Midfielder,77091274.53,4,5708197,1.56,3571,31
+10,Stacey Ward,1990-12-10,Romania,Defender,45918646.93,16,4419934,9.73,1473,35
+11,Matthew Mejia,1987-02-11,Timor-Leste,Goalkeeper,87181338.41,15,5008072,8.5,4168,38
+12,Brian Ramirez,2006-01-11,Syrian Arab Republic,Defender,16131087.59,3,2711343,5.62,4354,19
+13,Jacob Clark,1993-06-25,Reunion,Goalkeeper,60295513.86,12,8198443,0.69,2983,32
+14,Maria Lynch,1990-03-22,Martinique,Midfielder,24705778.72,12,4042154,8.84,655,35
+15,Carla Gray,2006-03-05,Portugal,Goalkeeper,73458851.89,15,1162193,9.79,4373,19
+16,Melinda Cameron,1986-04-21,Denmark,Defender,13710754.99,10,7974915,9.5,1362,39
+17,Renee Morales,1986-08-26,Croatia,Midfielder,53239704.95,10,7100076,9.66,4427,39
+18,Latoya Robbins,1991-08-20,Palau,Defender,71581948.31,19,6694979,9.95,3069,34
+19,Dr. Marvin Thomas Jr.,2003-07-02,Mauritania,Forward,90061794.38,16,7575680,1.65,1850,22
+20,Kevin Hurst,1997-12-27,Guyana,Goalkeeper,34470470.65,8,9871182,5.76,4830,28
+21,Zachary Hicks,1987-06-29,Saudi Arabia,Defender,1711893.06,7,988737,2.67,267,38
+22,Brian Burton,1998-10-06,Nepal,Midfielder,8014877.64,5,3994055,3.15,3986,27
+23,James Ferrell,2002-05-27,El Salvador,Defender,54384159.21,7,9581513,5.97,2000,23
+24,Shannon Smith,1988-04-18,Pitcairn Islands,Forward,80942202.78,20,3195548,1.4,3541,37
+25,Nicole Mack,1995-12-22,Bouvet Island (Bouvetoya),Midfielder,42934283.68,17,7836373,8.71,453,30
+26,Christopher Smith,1993-05-12,Macao,Goalkeeper,7000654.73,10,5693553,8.11,905,32
+27,Katie Rodriguez,2005-09-03,French Southern Territories,Defender,19967417.14,17,8998381,4.76,3466,20
+28,Katie Gonzalez,1997-02-13,Serbia,Defender,28575969.32,6,4192056,8.81,627,28
+29,Troy Nielsen,1984-06-02,Netherlands Antilles,Forward,80994202.23,18,9233926,1.43,4438,41
+30,Alec Hickman,1994-11-11,Dominican Republic,Goalkeeper,96930629.47,7,3966789,2.08,3988,31
+31,Shawn Arroyo,1987-04-25,Saint Martin,Forward,22160982.62,2,6729339,9.07,1358,38
+32,Mr. Philip Cannon,1988-10-07,Palestinian Territory,Forward,1213382.46,10,6551190,3.02,3737,37
+33,Joshua Baker,2005-01-14,Jamaica,Midfielder,42877741.11,12,9325245,6.79,3996,20
+34,Tanya Campos,1991-03-30,Rwanda,Defender,19799888.86,13,3653414,9.7,4754,34
+35,Zachary Santos,1999-04-22,United Arab Emirates,Goalkeeper,75049580.48,15,960074,0.98,3915,26
+36,Barbara Walker,1995-11-26,Angola,Defender,6631078.39,9,8520948,1.26,1532,30
+37,Crystal Robinson,1986-10-25,Russian Federation,Goalkeeper,59908475.54,20,3947066,4.34,4676,39
+38,Crystal Whitehead,1995-08-23,Barbados,Defender,58312986.69,11,667754,6.38,3444,30
+39,Diana Washington,2002-09-30,Bulgaria,Midfielder,93535919.52,18,3427900,6.86,2583,23
+40,Sonya Johnston,1992-08-31,Slovenia,Defender,27295836.74,3,2196773,6.88,2467,33
+41,Jason Davis,2006-10-27,Jersey,Forward,32301542.43,8,1218071,0.59,4622,19
+42,Jason Shields,1986-03-30,Peru,Goalkeeper,8252811.39,5,3577135,5.31,1095,39
+43,Maria Brown,1995-12-11,South Georgia and the South Sandwich Islands,Midfielder,88205553.19,8,4099412,4.01,1302,30
+44,Danielle Lee,1999-08-31,Burundi,Forward,83540750.51,9,5076395,6.31,4343,26
+45,Donald Wright,1986-12-18,Kenya,Goalkeeper,67118457.17,4,9305682,3.34,858,39
+46,Savannah Garcia,2006-08-03,Mauritius,Defender,27182126.23,14,1796765,7.55,1283,19
+47,Tracy House,1992-06-10,Chad,Midfielder,28893870.87,13,3534779,7.32,1677,33
+48,John Hancock,1986-05-24,Chad,Midfielder,51035496.75,13,4214115,9.1,426,39
+49,William Baker,1999-11-18,France,Goalkeeper,63794160.28,2,4642923,0.92,2742,26
+50,Tyler Cowan,2003-04-23,Panama,Defender,64074224.35,7,4395880,2.04,3629,22
+51,Brittney Phillips,1986-05-22,Mozambique,Forward,56529779.61,20,1877932,1.21,1231,39
+52,Amy Edwards,1986-02-08,Myanmar,Goalkeeper,83624906.97,10,9773888,5.75,3530,39
+53,Thomas Schmidt,1986-05-02,Malawi,Defender,5141056.96,1,6118837,9.04,336,39
+54,Cody Larson,2007-05-17,Tokelau,Midfielder,21797577.3,11,4187414,6.84,2907,18
+55,Bryan Zamora,1992-10-10,Mozambique,Forward,97409865.24,4,2593974,9.29,1949,33
+56,Lisa Barnes,2004-04-04,Mongolia,Defender,97644397.26,8,2971445,8.87,213,21
+57,Taylor Harris,1995-02-02,Dominican Republic,Defender,73919882.7,12,5574147,7.93,3382,30
+58,Carlos Brewer,1999-12-16,Germany,Defender,27413765.25,14,1814543,4.13,327,26
+59,Taylor Smith,2005-07-14,Mongolia,Forward,23020938.04,5,7723606,3.82,1874,20
+60,Angel Lewis MD,1996-04-10,Turkmenistan,Defender,3342779.04,13,3241180,4.29,2292,29
+61,David Mitchell,1999-04-23,Syrian Arab Republic,Goalkeeper,96722021.3,5,4683940,3.84,4183,26
+62,Elizabeth Riggs,2006-08-26,Marshall Islands,Forward,68272293.72,2,8997207,3.65,236,19
+63,Robert Evans,2006-12-21,Bosnia and Herzegovina,Goalkeeper,87826802.75,2,4383463,2.2,2184,19
+64,Brandy Wilson,1988-01-16,Samoa,Goalkeeper,11731852.17,14,7291770,3.78,2579,37
+65,Denise Jacobs,1996-01-25,Costa Rica,Forward,61014676.48,17,8581255,1.6,4733,29
+66,Sarah Wagner,1992-12-10,United Kingdom,Defender,26217528.11,4,7316831,0.52,4420,33
+67,Amber Walters,1993-10-24,Aruba,Defender,37057925.71,16,1174965,9.51,2714,32
+68,Ray Walsh,1993-04-24,Central African Republic,Midfielder,66675360.15,9,2091865,7.34,2470,32
+69,Kristen Patterson,1984-09-23,Bouvet Island (Bouvetoya),Midfielder,67022397.51,19,5473441,4.32,2432,41
+70,Stephen Mckee,2002-12-18,Argentina,Defender,19992169.21,5,6362002,6.93,1435,23
+71,Lauren Hernandez,1988-09-25,Armenia,Midfielder,41201441.71,1,7810,3.39,1731,37
+72,Steven Flynn,1985-10-03,United Arab Emirates,Forward,78790123.92,20,5407444,4.92,3632,40
+73,Michael Estrada,1996-06-07,Slovakia (Slovak Republic),Defender,51606225.69,12,2847949,6.76,2334,29
+74,Shelly Dickson,1989-08-28,Uzbekistan,Midfielder,10245332.81,19,3941441,6.89,1850,36
+75,Sharon Cherry,1990-06-04,Turkmenistan,Defender,15588042.26,11,776337,2.83,3902,35
+76,Christopher Middleton,1998-05-29,Spain,Goalkeeper,46086200.67,18,9659155,2.35,3155,27
+77,Nancy Wright,1989-10-25,Solomon Islands,Forward,40565633.42,6,2476836,6.73,55,36
+78,Janet Williams,2000-05-31,Cyprus,Goalkeeper,78063620.27,15,3672545,2.17,4253,25
+79,Thomas Bailey,1992-02-22,Czech Republic,Forward,5971620.13,17,4181853,9.22,1004,33
+80,Corey Murphy,1986-10-05,Sierra Leone,Forward,14200571.45,16,7796419,6.84,4588,39
+81,Martin Ross,2002-08-23,Greenland,Midfielder,95053921.24,13,7426149,6.32,4145,23
+82,Ashley Waller,1990-06-23,Mozambique,Forward,83226347.8,6,9192766,4.74,1313,35
+83,Deborah Rodriguez,1999-03-09,Guatemala,Forward,45556905.97,6,4148994,8.48,2281,26
+84,Emily Obrien,2001-10-19,Brazil,Forward,63048095.26,18,4607980,4.68,2350,24
+85,Kenneth Scott,1999-03-28,Afghanistan,Defender,27899795.6,20,5364836,8.98,670,26
+86,Renee Mcdaniel,2007-03-21,Congo,Defender,15932235.14,1,6427265,7.09,1762,18
+87,Benjamin Beck,1995-08-20,Nigeria,Goalkeeper,42071921.69,11,5552268,5.65,3416,30
+88,Ryan Cortez,1994-08-14,Madagascar,Goalkeeper,21476604.56,16,7049838,4.2,4794,31
+89,Jason Powell,1994-06-17,Micronesia,Goalkeeper,85816471.2,3,9659481,4.11,58,31
+90,Jason Bentley,1990-04-27,Nicaragua,Midfielder,30562652.58,14,6543890,8.61,3442,35
+91,Jennifer Bass,1994-09-27,France,Defender,49334718.28,18,4580094,4.64,247,31
+92,Richard Lawson,1995-05-13,Lao People's Democratic Republic,Forward,34276824.83,3,6784308,7.38,3838,30
+93,Michael Dixon,1990-03-04,Palestinian Territory,Defender,98091475.77,4,8962107,0.76,3237,35
+94,Jose Schultz,1995-10-21,Bermuda,Goalkeeper,9310798.75,6,7191929,1.79,3792,30
+95,Nicole Chambers,1992-01-16,Sri Lanka,Defender,5978178.72,7,6361307,3.61,3734,33
+96,Alexander Sanchez,2000-07-25,New Zealand,Midfielder,34412554.26,8,6361682,3.14,3463,25
+97,Angel Perry,2005-10-29,Morocco,Midfielder,83656180.58,19,7891439,0.68,4428,20
+98,Michael Snyder,1992-09-13,Cameroon,Goalkeeper,99990875.02,1,5872360,2.63,572,33
+99,Abigail Potter,1988-01-10,Slovakia (Slovak Republic),Goalkeeper,75669087.2,3,4149725,2.39,176,37
+100,Christopher Rubio,2002-01-08,Kyrgyz Republic,Defender,24615949.25,17,7946036,6.86,4630,23
