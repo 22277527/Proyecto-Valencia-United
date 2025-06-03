@@ -1,0 +1,35 @@
+Final Documentation of the work of Valencia United
+
+**Data Engineers**
+The department of the engineers was responsible for creating the infrastructure, which consisted in finding appropriate data sources and generating the final data. In order to identify which tables they need to generate, they collaborated with the other two departments to find out what their requirements were. After doing that, they created an ER diagram showing all the different tables they wanted to include. 
+Over the time, they made adjustments to the ER diagram as well as to the sql schema to meet the requirements of the scientist department.
+
+The final output of the Data Engineer department is the following:
+- an sql document, where each table including attributes, primary key, and foreign key is defined
+- a python document, where the synthetic data is generated
+- csv files for every table
+- a documentation in which they justify their decisions
+
+**Data Analysts**
+The department of the analysts was responsible for creating a dashboard to visualize the information that can be extracted out of the data.
+Before starting with the dashboard, they were contributing to the work of the Data Engineers to identify which data will be needed. In continuation, they performed an exploratory data analysis (EDA) to define which data they want to visualize on the dashboard. After that, they created a mockup dashboard to share their visualization ideas with the other departments.
+
+The final output of the Data Analyst department is the following:
+- a Power BI dashboard
+- comprehensive code to perform the EDA
+- a documentation in which they justify their decisions
+
+**Data Scientists**
+The department of the scientists was responsible for developing machine learning models to gain further insights out of the data.
+Before starting with their work, they supported the Data Engineer department by stating which questions they want to answer using their models, and which data they will need to be able to do that. To do that, they conducted a literature review to find out which insights would be useful for their context as a football club.
+After the initial data was defined, the Data Scientist started with looking deeper into possible models and defining the prerequisites and the scope for each. While developing the models, they were continuously in touch with the engineer department to inform them about changes in their requirements, which led to adjustments in the data.
+
+The final output of the Data Scientist department is the following:
+- three different machine learning models (linear regression, logistic regression, and random forest)
+  -jupyter notebooks with clean, well-documented, and self-explanatory python code, with instructions to reuse
+- a documentation in which they justify their decisions
+
+**Department-independent Work**
+- the whole team agreed on their way of working: use of GitHub and work in Visual Studio Code to do the commits and pushs
+- log master: Matías
+- responsible for the documentation: Nele
